@@ -16,6 +16,7 @@ if(!require(aggiedown)){
   devtools::install_github("rapeek/aggiedown")
   }
 library(aggiedown)
+library(knitr)
 flights <- read.csv("data/flights.csv")
 ```
 
