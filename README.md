@@ -42,7 +42,7 @@ On an OSX system you can download a copy of the fonts in this repository with <h
 
 ```
 brew update
-brew tap caskroom/fonts
+brew tap homebrew/cask-fonts
 brew cask install font-eb-garamond font-source-code-pro font-lato
 ```
 
