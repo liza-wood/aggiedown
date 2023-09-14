@@ -236,7 +236,7 @@
   % \null\vfil
   
   \begin{center}
-    \fmfont {\bfseries\large {\@title} \par}   % Formatting of the Dissertation title
+    \fmfont {\large {\@title} \par}   % Formatting of the Dissertation title
     \smallskip \vspace{2ex}
     By \par
     \medskip \MakeUppercase{\@author} \par
