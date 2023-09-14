@@ -43,7 +43,7 @@ On an OSX system you can download a copy of the fonts in this repository with <h
 ```
 brew update
 brew tap homebrew/cask-fonts
-brew cask install font-eb-garamond font-source-code-pro font-lato
+brew install font-eb-garamond font-source-code-pro font-lato
 ```
 
 On Windows the usual pointing and clicking is required to install the fonts listed above. You can download a copy of the fonts in this repository at <https://github.com/ryanpeek/aggiedown/raw/master/inst/fonts.zip>, unzip and move them to your fonts directory. 
